@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# This is a JavaScript project; keep the source library directory
+!lib/
